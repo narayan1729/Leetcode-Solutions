@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/narayan1729/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
+## Array
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
