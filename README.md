@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->
