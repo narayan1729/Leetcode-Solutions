@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3379-transformed-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
