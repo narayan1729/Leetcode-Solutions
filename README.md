@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+## Hash Table
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
