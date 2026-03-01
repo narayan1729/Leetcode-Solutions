@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narayan1729/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2027-minimum-moves-to-convert-string](https://github.com/narayan1729/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narayan1729/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2027-minimum-moves-to-convert-string](https://github.com/narayan1729/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Array
 |  |
