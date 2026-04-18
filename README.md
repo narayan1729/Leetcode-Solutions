@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/narayan1729/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
