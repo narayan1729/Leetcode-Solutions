@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narayan1729/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2027-minimum-moves-to-convert-string](https://github.com/narayan1729/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Simulation
 |  |
