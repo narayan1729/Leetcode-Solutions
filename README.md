@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/narayan1729/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2027-minimum-moves-to-convert-string](https://github.com/narayan1729/Leetcode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
