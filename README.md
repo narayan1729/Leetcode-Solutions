@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
