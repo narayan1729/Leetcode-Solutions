@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
