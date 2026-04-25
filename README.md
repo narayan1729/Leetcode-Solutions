@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -92,8 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
