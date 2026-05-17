@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/narayan1729/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/narayan1729/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
